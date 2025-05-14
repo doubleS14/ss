@@ -29,7 +29,7 @@ author:
   location         : "United Kingdom"
   employer         : "The University of Sheffield"
   uri              : # URL
-  email            : "TBD" 
+  email            : "example@sheffield.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/"
   semantic         : # URL
-  pubmed           : ""
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "" # URL
   scopus           : # URL
 
   # Repositories and software development
