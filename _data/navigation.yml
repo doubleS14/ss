@@ -8,19 +8,19 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "BSFEDFPublications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "CCCCTalks"
+  - title: "Taks"
     url: /talks/    
 
-  - title: "DDTeaching"
+  - title: "Teaching Experiences"
     url: /teaching/    
     
-  - title: "ADDCPortfolio"
+  - title: "Research Interests"
     url: /portfolio/
         
-  - title: "QQQBlog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
